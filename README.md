@@ -30,7 +30,7 @@
   
   - I am a Full Stack Developer and Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in the USA.
   - :telescope: I’m working as a Software Engineer/Mobile Developer were I am contributing to the frontend for building web and mobile applications.
-  - :seedling: Explore new texh and frameworks.
+  - :seedling: I enjoy exploreing new technologies and frameworks.
   - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erikjosemartinez/)
   ---
 
